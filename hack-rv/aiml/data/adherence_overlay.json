@@ -1,0 +1,3185 @@
+{
+  "trial": {
+    "name": "Type 2 Diabetes Management Trial",
+    "start_date": "2025-12-01",
+    "visit_interval_days": 28,
+    "num_visits": 6,
+    "dosing": "daily"
+  },
+  "cohort_size": 50,
+  "summary": {
+    "on_track": 13,
+    "at_risk": 29,
+    "non_compliant": 8
+  },
+  "patients": [
+    {
+      "patient_id": "326f28ab-aa55-36aa-13fb-ae2633a00e9d",
+      "name": "Adelia946 Vandervort697",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 115,
+      "adherence_rate": 0.821,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "late",
+          "actual": "2026-01-29"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Visit 3 attended late (2026-01-29)"
+      ]
+    },
+    {
+      "patient_id": "844afde7-b984-26b8-288f-bbf7390f3834",
+      "name": "Albina13 Boyer713",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 2,
+      "doses_expected": 140,
+      "doses_taken": 117,
+      "adherence_rate": 0.836,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "late",
+          "actual": "2025-12-05"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "late",
+          "actual": "2026-04-22"
+        }
+      ],
+      "deviations": [
+        "Visit 1 attended late (2025-12-05)",
+        "Visit 6 attended late (2026-04-22)"
+      ]
+    },
+    {
+      "patient_id": "352295b9-87f7-d91d-2839-e68d92591c24",
+      "name": "Alda400 Turner526",
+      "adherence_status": "on_track",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 137,
+      "adherence_rate": 0.979,
+      "max_consecutive_missed_doses": 1,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "late",
+          "actual": "2026-02-26"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Visit 4 attended late (2026-02-26)"
+      ]
+    },
+    {
+      "patient_id": "640bf97b-544b-a8b0-23a9-1f55f8359c54",
+      "name": "Alison204 Mertz280",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 3,
+      "doses_expected": 140,
+      "doses_taken": 107,
+      "adherence_rate": 0.764,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "late",
+          "actual": "2025-12-31"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "late",
+          "actual": "2026-02-01"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "late",
+          "actual": "2026-03-02"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Visit 2 attended late (2025-12-31)",
+        "Visit 3 attended late (2026-02-01)",
+        "Visit 4 attended late (2026-03-02)",
+        "Medication adherence 76% below 80% protocol threshold"
+      ]
+    },
+    {
+      "patient_id": "c65ced0c-f3b5-12b5-a408-1a6e8d471e4a",
+      "name": "Alta896 Gottlieb798",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 115,
+      "adherence_rate": 0.821,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "e9b69e13-f4f5-0fbb-9d65-c6385e7c9da6",
+      "name": "Anibal473 Tromp100",
+      "adherence_status": "on_track",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 129,
+      "adherence_rate": 0.921,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "8b452581-c862-b3b0-3513-4a754f02a13c",
+      "name": "Arden380 Kuvalis369",
+      "adherence_status": "on_track",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 126,
+      "adherence_rate": 0.9,
+      "max_consecutive_missed_doses": 1,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "late",
+          "actual": "2026-02-28"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Visit 4 attended late (2026-02-28)"
+      ]
+    },
+    {
+      "patient_id": "47b06907-bdd3-e64a-e24e-9003437c4999",
+      "name": "Aurelio227 Jacobi462",
+      "adherence_status": "on_track",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 2,
+      "doses_expected": 140,
+      "doses_taken": 126,
+      "adherence_rate": 0.9,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "late",
+          "actual": "2026-03-29"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "late",
+          "actual": "2026-04-24"
+        }
+      ],
+      "deviations": [
+        "Visit 5 attended late (2026-03-29)",
+        "Visit 6 attended late (2026-04-24)"
+      ]
+    },
+    {
+      "patient_id": "84477ed0-359d-a807-37dc-666757960178",
+      "name": "Bennie663 Ziemann98",
+      "adherence_status": "on_track",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 134,
+      "adherence_rate": 0.957,
+      "max_consecutive_missed_doses": 1,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "d658b051-8134-2e61-56f9-af449954678a",
+      "name": "Betsy439 Batz141",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 5,
+      "visits_missed": 1,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 112,
+      "adherence_rate": 0.8,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Missed visit 5 (scheduled 2026-03-23) \u2014 no-show"
+      ]
+    },
+    {
+      "patient_id": "5ed74981-4fd8-68c0-d595-1916b64b16b6",
+      "name": "Bonita405 Volkman526",
+      "adherence_status": "on_track",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 130,
+      "adherence_rate": 0.929,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "1a324807-9534-bc58-15f0-c2a48b3b2b2f",
+      "name": "Brendon298 Ebert178",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 5,
+      "visits_missed": 1,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 117,
+      "adherence_rate": 0.836,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Missed visit 5 (scheduled 2026-03-23) \u2014 no-show"
+      ]
+    },
+    {
+      "patient_id": "a8a88ec6-7c93-a56a-116c-7512060d3c3c",
+      "name": "Brittni468 Nolan344",
+      "adherence_status": "non_compliant",
+      "visits_scheduled": 6,
+      "visits_attended": 4,
+      "visits_missed": 2,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 98,
+      "adherence_rate": 0.7,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Missed visit 2 (scheduled 2025-12-29) \u2014 no-show",
+        "Missed visit 3 (scheduled 2026-01-26) \u2014 no-show",
+        "Medication adherence 70% below 80% protocol threshold"
+      ]
+    },
+    {
+      "patient_id": "8fb9a8f3-0c30-60aa-47fe-986fa55e1722",
+      "name": "Brittny484 Sporer811",
+      "adherence_status": "non_compliant",
+      "visits_scheduled": 6,
+      "visits_attended": 4,
+      "visits_missed": 2,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 107,
+      "adherence_rate": 0.764,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "late",
+          "actual": "2026-03-01"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "missed",
+          "actual": null
+        }
+      ],
+      "deviations": [
+        "Missed visit 1 (scheduled 2025-12-01) \u2014 no-show",
+        "Visit 4 attended late (2026-03-01)",
+        "Missed visit 6 (scheduled 2026-04-20) \u2014 no-show",
+        "Medication adherence 76% below 80% protocol threshold"
+      ]
+    },
+    {
+      "patient_id": "85c8a30a-9849-6cb6-5183-7db61f2cd84c",
+      "name": "Candelaria844 Zulauf375",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 3,
+      "doses_expected": 140,
+      "doses_taken": 121,
+      "adherence_rate": 0.864,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "late",
+          "actual": "2026-01-30"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "late",
+          "actual": "2026-03-01"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "late",
+          "actual": "2026-04-23"
+        }
+      ],
+      "deviations": [
+        "Visit 3 attended late (2026-01-30)",
+        "Visit 4 attended late (2026-03-01)",
+        "Visit 6 attended late (2026-04-23)"
+      ]
+    },
+    {
+      "patient_id": "d44f3013-818c-f24a-31c5-3c772ec6cc2e",
+      "name": "Carlene772 Fay398",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 121,
+      "adherence_rate": 0.864,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "cc192832-e8d8-8f43-b24f-38c24bec9170",
+      "name": "Casandra937 Lemke654",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 119,
+      "adherence_rate": 0.85,
+      "max_consecutive_missed_doses": 5,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "5 consecutive missed doses \u2014 adherence gap"
+      ]
+    },
+    {
+      "patient_id": "c33057f3-d15e-d71c-c535-1d922b50dbe2",
+      "name": "Cassaundra447 Upton904",
+      "adherence_status": "non_compliant",
+      "visits_scheduled": 6,
+      "visits_attended": 5,
+      "visits_missed": 1,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 86,
+      "adherence_rate": 0.614,
+      "max_consecutive_missed_doses": 4,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Missed visit 2 (scheduled 2025-12-29) \u2014 no-show",
+        "Medication adherence 61% below 80% protocol threshold",
+        "4 consecutive missed doses \u2014 adherence gap"
+      ]
+    },
+    {
+      "patient_id": "79c6bbb1-d462-8c87-4951-3b1b81fbd933",
+      "name": "Catalina187 Aguirre875",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 119,
+      "adherence_rate": 0.85,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "late",
+          "actual": "2026-01-01"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Visit 2 attended late (2026-01-01)"
+      ]
+    },
+    {
+      "patient_id": "0a18b094-fca8-eb98-d4d0-b36e5cab09d8",
+      "name": "Cecil300 Jacobs452",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 109,
+      "adherence_rate": 0.779,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "late",
+          "actual": "2026-01-01"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Visit 2 attended late (2026-01-01)",
+        "Medication adherence 78% below 80% protocol threshold"
+      ]
+    },
+    {
+      "patient_id": "a7cbeb21-0e13-aea3-9c06-a213cbf7f2f7",
+      "name": "Chae49 Senger904",
+      "adherence_status": "non_compliant",
+      "visits_scheduled": 6,
+      "visits_attended": 4,
+      "visits_missed": 2,
+      "visits_late": 2,
+      "doses_expected": 140,
+      "doses_taken": 77,
+      "adherence_rate": 0.55,
+      "max_consecutive_missed_doses": 4,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "late",
+          "actual": "2026-01-31"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "late",
+          "actual": "2026-03-30"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "missed",
+          "actual": null
+        }
+      ],
+      "deviations": [
+        "Missed visit 1 (scheduled 2025-12-01) \u2014 no-show",
+        "Visit 3 attended late (2026-01-31)",
+        "Visit 5 attended late (2026-03-30)",
+        "Missed visit 6 (scheduled 2026-04-20) \u2014 no-show",
+        "Medication adherence 55% below 80% protocol threshold",
+        "4 consecutive missed doses \u2014 adherence gap"
+      ]
+    },
+    {
+      "patient_id": "377e6970-65f5-5c3a-0d05-0a2446c50c3e",
+      "name": "Clayton230 Farrell962",
+      "adherence_status": "non_compliant",
+      "visits_scheduled": 6,
+      "visits_attended": 5,
+      "visits_missed": 1,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 104,
+      "adherence_rate": 0.743,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Missed visit 3 (scheduled 2026-01-26) \u2014 no-show",
+        "Medication adherence 74% below 80% protocol threshold"
+      ]
+    },
+    {
+      "patient_id": "b85b0e8d-46ea-1f41-84cb-3f9a83526f4c",
+      "name": "Colette720 Willms744",
+      "adherence_status": "on_track",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 137,
+      "adherence_rate": 0.979,
+      "max_consecutive_missed_doses": 1,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "d0c3cd50-af09-e170-a57b-d155bd0852d8",
+      "name": "Corine538 Stokes453",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 118,
+      "adherence_rate": 0.843,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "f8c9295e-e1f5-2df5-f6ab-f93a3d595c7e",
+      "name": "Curtis94 Yost751",
+      "adherence_status": "on_track",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 127,
+      "adherence_rate": 0.907,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "late",
+          "actual": "2026-02-25"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Visit 4 attended late (2026-02-25)"
+      ]
+    },
+    {
+      "patient_id": "f00eda17-0584-b47e-7da5-40b7940a67b1",
+      "name": "Darrell400 Schroeder447",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 123,
+      "adherence_rate": 0.879,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "2a435b84-ff65-237a-1b43-afa8160b0a6c",
+      "name": "David908 Leal292",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 5,
+      "visits_missed": 1,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 117,
+      "adherence_rate": 0.836,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Missed visit 5 (scheduled 2026-03-23) \u2014 no-show"
+      ]
+    },
+    {
+      "patient_id": "b3137b61-7072-defc-e76d-6e72b14d9bd9",
+      "name": "Deandra603 Gottlieb798",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 115,
+      "adherence_rate": 0.821,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "384e818e-b695-39d9-c66d-bdce4ea9de58",
+      "name": "Debby656 Lang846",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 5,
+      "visits_missed": 1,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 116,
+      "adherence_rate": 0.829,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Missed visit 3 (scheduled 2026-01-26) \u2014 no-show"
+      ]
+    },
+    {
+      "patient_id": "6a2d26d1-839a-de87-e4aa-1b67a64d1ef1",
+      "name": "Deja232 Metz686",
+      "adherence_status": "on_track",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 133,
+      "adherence_rate": 0.95,
+      "max_consecutive_missed_doses": 1,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "d5c23197-dcc7-f8e9-4b50-b1bd581089ce",
+      "name": "Delilah659 Satterfield305",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 2,
+      "doses_expected": 140,
+      "doses_taken": 108,
+      "adherence_rate": 0.771,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "late",
+          "actual": "2026-03-25"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "late",
+          "actual": "2026-04-25"
+        }
+      ],
+      "deviations": [
+        "Visit 5 attended late (2026-03-25)",
+        "Visit 6 attended late (2026-04-25)",
+        "Medication adherence 77% below 80% protocol threshold"
+      ]
+    },
+    {
+      "patient_id": "a297bb62-faac-2465-ce7b-62439e7e49ae",
+      "name": "Delta800 Bechtelar572",
+      "adherence_status": "on_track",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 137,
+      "adherence_rate": 0.979,
+      "max_consecutive_missed_doses": 1,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "late",
+          "actual": "2026-03-02"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Visit 4 attended late (2026-03-02)"
+      ]
+    },
+    {
+      "patient_id": "547532f4-57b1-02a2-901a-0ddf1062740b",
+      "name": "Denisha680 Lind531",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 5,
+      "visits_missed": 1,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 108,
+      "adherence_rate": 0.771,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "late",
+          "actual": "2026-01-02"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "missed",
+          "actual": null
+        }
+      ],
+      "deviations": [
+        "Visit 2 attended late (2026-01-02)",
+        "Missed visit 6 (scheduled 2026-04-20) \u2014 no-show",
+        "Medication adherence 77% below 80% protocol threshold"
+      ]
+    },
+    {
+      "patient_id": "4a138e40-dc84-dd23-782e-017c3747b915",
+      "name": "Dewitt635 Hirthe744",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 121,
+      "adherence_rate": 0.864,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "4689669c-4c42-2450-9ecf-1a0ae246707f",
+      "name": "Dominic463 Baumbach677",
+      "adherence_status": "on_track",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 129,
+      "adherence_rate": 0.921,
+      "max_consecutive_missed_doses": 1,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "0e639af8-ee50-3c31-25ca-caa93c033393",
+      "name": "Donald774 Crona259",
+      "adherence_status": "on_track",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 130,
+      "adherence_rate": 0.929,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "86c88119-a030-575d-2608-0fc462a06497",
+      "name": "Donnell534 Hettinger594",
+      "adherence_status": "on_track",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 128,
+      "adherence_rate": 0.914,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "bf8fc3c9-002a-e27a-f4ec-65628d40fe24",
+      "name": "Drusilla108 Eichmann909",
+      "adherence_status": "non_compliant",
+      "visits_scheduled": 6,
+      "visits_attended": 4,
+      "visits_missed": 2,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 101,
+      "adherence_rate": 0.721,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "late",
+          "actual": "2026-04-25"
+        }
+      ],
+      "deviations": [
+        "Missed visit 2 (scheduled 2025-12-29) \u2014 no-show",
+        "Missed visit 5 (scheduled 2026-03-23) \u2014 no-show",
+        "Visit 6 attended late (2026-04-25)",
+        "Medication adherence 72% below 80% protocol threshold"
+      ]
+    },
+    {
+      "patient_id": "794686f5-c432-9a96-fa36-e6e2f68fb2ec",
+      "name": "Dusti191 Bernier607",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 5,
+      "visits_missed": 1,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 107,
+      "adherence_rate": 0.764,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Missed visit 1 (scheduled 2025-12-01) \u2014 no-show",
+        "Medication adherence 76% below 80% protocol threshold"
+      ]
+    },
+    {
+      "patient_id": "7914dd2d-9732-95f1-1ff9-0559668dd585",
+      "name": "Eladia866 Schiller186",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 120,
+      "adherence_rate": 0.857,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "late",
+          "actual": "2026-03-28"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Visit 5 attended late (2026-03-28)"
+      ]
+    },
+    {
+      "patient_id": "4e3a3262-4f09-f781-500d-077c9f0420ea",
+      "name": "Elizbeth263 Kub800",
+      "adherence_status": "non_compliant",
+      "visits_scheduled": 6,
+      "visits_attended": 5,
+      "visits_missed": 1,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 103,
+      "adherence_rate": 0.736,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "late",
+          "actual": "2026-03-25"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Missed visit 2 (scheduled 2025-12-29) \u2014 no-show",
+        "Visit 5 attended late (2026-03-25)",
+        "Medication adherence 74% below 80% protocol threshold"
+      ]
+    },
+    {
+      "patient_id": "bc3c7e09-3d18-e7f1-d5ac-ea54e347e705",
+      "name": "Elmer371 Langosh790",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 121,
+      "adherence_rate": 0.864,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "late",
+          "actual": "2026-04-26"
+        }
+      ],
+      "deviations": [
+        "Visit 6 attended late (2026-04-26)"
+      ]
+    },
+    {
+      "patient_id": "9801576f-8900-6d73-0995-c9a4a60f8dc1",
+      "name": "Elvina437 Gusikowski974",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 5,
+      "visits_missed": 1,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 113,
+      "adherence_rate": 0.807,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "late",
+          "actual": "2026-03-26"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Missed visit 1 (scheduled 2025-12-01) \u2014 no-show",
+        "Visit 5 attended late (2026-03-26)"
+      ]
+    },
+    {
+      "patient_id": "35c5f160-88e9-830f-af33-9d95b82d00ba",
+      "name": "Florene115 Thiel172",
+      "adherence_status": "non_compliant",
+      "visits_scheduled": 6,
+      "visits_attended": 5,
+      "visits_missed": 1,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 88,
+      "adherence_rate": 0.629,
+      "max_consecutive_missed_doses": 4,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "late",
+          "actual": "2025-12-05"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Visit 1 attended late (2025-12-05)",
+        "Missed visit 4 (scheduled 2026-02-23) \u2014 no-show",
+        "Medication adherence 63% below 80% protocol threshold",
+        "4 consecutive missed doses \u2014 adherence gap"
+      ]
+    },
+    {
+      "patient_id": "25482b3d-0e77-d636-82e7-be4733280ac9",
+      "name": "Francisca486 Cornejo190",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 3,
+      "doses_expected": 140,
+      "doses_taken": 115,
+      "adherence_rate": 0.821,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "late",
+          "actual": "2025-12-07"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "late",
+          "actual": "2026-02-01"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "late",
+          "actual": "2026-03-30"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Visit 1 attended late (2025-12-07)",
+        "Visit 3 attended late (2026-02-01)",
+        "Visit 5 attended late (2026-03-30)"
+      ]
+    },
+    {
+      "patient_id": "5a596661-5c50-5eac-7b45-e63868948856",
+      "name": "Gabriel934 Linares712",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 121,
+      "adherence_rate": 0.864,
+      "max_consecutive_missed_doses": 1,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "243da6fa-30de-0978-2daa-dadcba92687b",
+      "name": "Garry927 Crist667",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 110,
+      "adherence_rate": 0.786,
+      "max_consecutive_missed_doses": 3,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "late",
+          "actual": "2026-02-28"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Visit 4 attended late (2026-02-28)",
+        "Medication adherence 79% below 80% protocol threshold"
+      ]
+    },
+    {
+      "patient_id": "a9a90842-e758-2a49-4690-c9bd5f79033b",
+      "name": "Goldie436 White193",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 6,
+      "visits_missed": 0,
+      "visits_late": 0,
+      "doses_expected": 140,
+      "doses_taken": 122,
+      "adherence_rate": 0.871,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": []
+    },
+    {
+      "patient_id": "71cef2da-1265-9a41-7e5f-c841efe22eb7",
+      "name": "Greg949 Boyle917",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 5,
+      "visits_missed": 1,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 124,
+      "adherence_rate": 0.886,
+      "max_consecutive_missed_doses": 2,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "attended",
+          "actual": "2025-12-01"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "attended",
+          "actual": "2026-02-23"
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "late",
+          "actual": "2026-03-26"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Missed visit 2 (scheduled 2025-12-29) \u2014 no-show",
+        "Visit 5 attended late (2026-03-26)"
+      ]
+    },
+    {
+      "patient_id": "03822e38-8c6c-0043-93fe-9ed5822979a4",
+      "name": "Gregoria352 Lebsack687",
+      "adherence_status": "at_risk",
+      "visits_scheduled": 6,
+      "visits_attended": 5,
+      "visits_missed": 1,
+      "visits_late": 1,
+      "doses_expected": 140,
+      "doses_taken": 108,
+      "adherence_rate": 0.771,
+      "max_consecutive_missed_doses": 4,
+      "visits": [
+        {
+          "index": 1,
+          "scheduled": "2025-12-01",
+          "status": "late",
+          "actual": "2025-12-04"
+        },
+        {
+          "index": 2,
+          "scheduled": "2025-12-29",
+          "status": "attended",
+          "actual": "2025-12-29"
+        },
+        {
+          "index": 3,
+          "scheduled": "2026-01-26",
+          "status": "attended",
+          "actual": "2026-01-26"
+        },
+        {
+          "index": 4,
+          "scheduled": "2026-02-23",
+          "status": "missed",
+          "actual": null
+        },
+        {
+          "index": 5,
+          "scheduled": "2026-03-23",
+          "status": "attended",
+          "actual": "2026-03-23"
+        },
+        {
+          "index": 6,
+          "scheduled": "2026-04-20",
+          "status": "attended",
+          "actual": "2026-04-20"
+        }
+      ],
+      "deviations": [
+        "Visit 1 attended late (2025-12-04)",
+        "Missed visit 4 (scheduled 2026-02-23) \u2014 no-show",
+        "Medication adherence 77% below 80% protocol threshold",
+        "4 consecutive missed doses \u2014 adherence gap"
+      ]
+    }
+  ],
+  "alerts": [
+    {
+      "patient_id": "a8a88ec6-7c93-a56a-116c-7512060d3c3c",
+      "name": "Brittni468 Nolan344",
+      "severity": "high",
+      "detail": "Missed visit 2 (scheduled 2025-12-29) \u2014 no-show"
+    },
+    {
+      "patient_id": "a8a88ec6-7c93-a56a-116c-7512060d3c3c",
+      "name": "Brittni468 Nolan344",
+      "severity": "high",
+      "detail": "Missed visit 3 (scheduled 2026-01-26) \u2014 no-show"
+    },
+    {
+      "patient_id": "a8a88ec6-7c93-a56a-116c-7512060d3c3c",
+      "name": "Brittni468 Nolan344",
+      "severity": "high",
+      "detail": "Medication adherence 70% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "8fb9a8f3-0c30-60aa-47fe-986fa55e1722",
+      "name": "Brittny484 Sporer811",
+      "severity": "high",
+      "detail": "Missed visit 1 (scheduled 2025-12-01) \u2014 no-show"
+    },
+    {
+      "patient_id": "8fb9a8f3-0c30-60aa-47fe-986fa55e1722",
+      "name": "Brittny484 Sporer811",
+      "severity": "high",
+      "detail": "Visit 4 attended late (2026-03-01)"
+    },
+    {
+      "patient_id": "8fb9a8f3-0c30-60aa-47fe-986fa55e1722",
+      "name": "Brittny484 Sporer811",
+      "severity": "high",
+      "detail": "Missed visit 6 (scheduled 2026-04-20) \u2014 no-show"
+    },
+    {
+      "patient_id": "8fb9a8f3-0c30-60aa-47fe-986fa55e1722",
+      "name": "Brittny484 Sporer811",
+      "severity": "high",
+      "detail": "Medication adherence 76% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "c33057f3-d15e-d71c-c535-1d922b50dbe2",
+      "name": "Cassaundra447 Upton904",
+      "severity": "high",
+      "detail": "Missed visit 2 (scheduled 2025-12-29) \u2014 no-show"
+    },
+    {
+      "patient_id": "c33057f3-d15e-d71c-c535-1d922b50dbe2",
+      "name": "Cassaundra447 Upton904",
+      "severity": "high",
+      "detail": "Medication adherence 61% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "c33057f3-d15e-d71c-c535-1d922b50dbe2",
+      "name": "Cassaundra447 Upton904",
+      "severity": "high",
+      "detail": "4 consecutive missed doses \u2014 adherence gap"
+    },
+    {
+      "patient_id": "a7cbeb21-0e13-aea3-9c06-a213cbf7f2f7",
+      "name": "Chae49 Senger904",
+      "severity": "high",
+      "detail": "Missed visit 1 (scheduled 2025-12-01) \u2014 no-show"
+    },
+    {
+      "patient_id": "a7cbeb21-0e13-aea3-9c06-a213cbf7f2f7",
+      "name": "Chae49 Senger904",
+      "severity": "high",
+      "detail": "Visit 3 attended late (2026-01-31)"
+    },
+    {
+      "patient_id": "a7cbeb21-0e13-aea3-9c06-a213cbf7f2f7",
+      "name": "Chae49 Senger904",
+      "severity": "high",
+      "detail": "Visit 5 attended late (2026-03-30)"
+    },
+    {
+      "patient_id": "a7cbeb21-0e13-aea3-9c06-a213cbf7f2f7",
+      "name": "Chae49 Senger904",
+      "severity": "high",
+      "detail": "Missed visit 6 (scheduled 2026-04-20) \u2014 no-show"
+    },
+    {
+      "patient_id": "a7cbeb21-0e13-aea3-9c06-a213cbf7f2f7",
+      "name": "Chae49 Senger904",
+      "severity": "high",
+      "detail": "Medication adherence 55% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "a7cbeb21-0e13-aea3-9c06-a213cbf7f2f7",
+      "name": "Chae49 Senger904",
+      "severity": "high",
+      "detail": "4 consecutive missed doses \u2014 adherence gap"
+    },
+    {
+      "patient_id": "377e6970-65f5-5c3a-0d05-0a2446c50c3e",
+      "name": "Clayton230 Farrell962",
+      "severity": "high",
+      "detail": "Missed visit 3 (scheduled 2026-01-26) \u2014 no-show"
+    },
+    {
+      "patient_id": "377e6970-65f5-5c3a-0d05-0a2446c50c3e",
+      "name": "Clayton230 Farrell962",
+      "severity": "high",
+      "detail": "Medication adherence 74% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "bf8fc3c9-002a-e27a-f4ec-65628d40fe24",
+      "name": "Drusilla108 Eichmann909",
+      "severity": "high",
+      "detail": "Missed visit 2 (scheduled 2025-12-29) \u2014 no-show"
+    },
+    {
+      "patient_id": "bf8fc3c9-002a-e27a-f4ec-65628d40fe24",
+      "name": "Drusilla108 Eichmann909",
+      "severity": "high",
+      "detail": "Missed visit 5 (scheduled 2026-03-23) \u2014 no-show"
+    },
+    {
+      "patient_id": "bf8fc3c9-002a-e27a-f4ec-65628d40fe24",
+      "name": "Drusilla108 Eichmann909",
+      "severity": "high",
+      "detail": "Visit 6 attended late (2026-04-25)"
+    },
+    {
+      "patient_id": "bf8fc3c9-002a-e27a-f4ec-65628d40fe24",
+      "name": "Drusilla108 Eichmann909",
+      "severity": "high",
+      "detail": "Medication adherence 72% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "4e3a3262-4f09-f781-500d-077c9f0420ea",
+      "name": "Elizbeth263 Kub800",
+      "severity": "high",
+      "detail": "Missed visit 2 (scheduled 2025-12-29) \u2014 no-show"
+    },
+    {
+      "patient_id": "4e3a3262-4f09-f781-500d-077c9f0420ea",
+      "name": "Elizbeth263 Kub800",
+      "severity": "high",
+      "detail": "Visit 5 attended late (2026-03-25)"
+    },
+    {
+      "patient_id": "4e3a3262-4f09-f781-500d-077c9f0420ea",
+      "name": "Elizbeth263 Kub800",
+      "severity": "high",
+      "detail": "Medication adherence 74% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "35c5f160-88e9-830f-af33-9d95b82d00ba",
+      "name": "Florene115 Thiel172",
+      "severity": "high",
+      "detail": "Visit 1 attended late (2025-12-05)"
+    },
+    {
+      "patient_id": "35c5f160-88e9-830f-af33-9d95b82d00ba",
+      "name": "Florene115 Thiel172",
+      "severity": "high",
+      "detail": "Missed visit 4 (scheduled 2026-02-23) \u2014 no-show"
+    },
+    {
+      "patient_id": "35c5f160-88e9-830f-af33-9d95b82d00ba",
+      "name": "Florene115 Thiel172",
+      "severity": "high",
+      "detail": "Medication adherence 63% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "35c5f160-88e9-830f-af33-9d95b82d00ba",
+      "name": "Florene115 Thiel172",
+      "severity": "high",
+      "detail": "4 consecutive missed doses \u2014 adherence gap"
+    },
+    {
+      "patient_id": "326f28ab-aa55-36aa-13fb-ae2633a00e9d",
+      "name": "Adelia946 Vandervort697",
+      "severity": "medium",
+      "detail": "Visit 3 attended late (2026-01-29)"
+    },
+    {
+      "patient_id": "844afde7-b984-26b8-288f-bbf7390f3834",
+      "name": "Albina13 Boyer713",
+      "severity": "medium",
+      "detail": "Visit 1 attended late (2025-12-05)"
+    },
+    {
+      "patient_id": "844afde7-b984-26b8-288f-bbf7390f3834",
+      "name": "Albina13 Boyer713",
+      "severity": "medium",
+      "detail": "Visit 6 attended late (2026-04-22)"
+    },
+    {
+      "patient_id": "640bf97b-544b-a8b0-23a9-1f55f8359c54",
+      "name": "Alison204 Mertz280",
+      "severity": "medium",
+      "detail": "Visit 2 attended late (2025-12-31)"
+    },
+    {
+      "patient_id": "640bf97b-544b-a8b0-23a9-1f55f8359c54",
+      "name": "Alison204 Mertz280",
+      "severity": "medium",
+      "detail": "Visit 3 attended late (2026-02-01)"
+    },
+    {
+      "patient_id": "640bf97b-544b-a8b0-23a9-1f55f8359c54",
+      "name": "Alison204 Mertz280",
+      "severity": "medium",
+      "detail": "Visit 4 attended late (2026-03-02)"
+    },
+    {
+      "patient_id": "640bf97b-544b-a8b0-23a9-1f55f8359c54",
+      "name": "Alison204 Mertz280",
+      "severity": "medium",
+      "detail": "Medication adherence 76% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "d658b051-8134-2e61-56f9-af449954678a",
+      "name": "Betsy439 Batz141",
+      "severity": "medium",
+      "detail": "Missed visit 5 (scheduled 2026-03-23) \u2014 no-show"
+    },
+    {
+      "patient_id": "1a324807-9534-bc58-15f0-c2a48b3b2b2f",
+      "name": "Brendon298 Ebert178",
+      "severity": "medium",
+      "detail": "Missed visit 5 (scheduled 2026-03-23) \u2014 no-show"
+    },
+    {
+      "patient_id": "85c8a30a-9849-6cb6-5183-7db61f2cd84c",
+      "name": "Candelaria844 Zulauf375",
+      "severity": "medium",
+      "detail": "Visit 3 attended late (2026-01-30)"
+    },
+    {
+      "patient_id": "85c8a30a-9849-6cb6-5183-7db61f2cd84c",
+      "name": "Candelaria844 Zulauf375",
+      "severity": "medium",
+      "detail": "Visit 4 attended late (2026-03-01)"
+    },
+    {
+      "patient_id": "85c8a30a-9849-6cb6-5183-7db61f2cd84c",
+      "name": "Candelaria844 Zulauf375",
+      "severity": "medium",
+      "detail": "Visit 6 attended late (2026-04-23)"
+    },
+    {
+      "patient_id": "cc192832-e8d8-8f43-b24f-38c24bec9170",
+      "name": "Casandra937 Lemke654",
+      "severity": "medium",
+      "detail": "5 consecutive missed doses \u2014 adherence gap"
+    },
+    {
+      "patient_id": "79c6bbb1-d462-8c87-4951-3b1b81fbd933",
+      "name": "Catalina187 Aguirre875",
+      "severity": "medium",
+      "detail": "Visit 2 attended late (2026-01-01)"
+    },
+    {
+      "patient_id": "0a18b094-fca8-eb98-d4d0-b36e5cab09d8",
+      "name": "Cecil300 Jacobs452",
+      "severity": "medium",
+      "detail": "Visit 2 attended late (2026-01-01)"
+    },
+    {
+      "patient_id": "0a18b094-fca8-eb98-d4d0-b36e5cab09d8",
+      "name": "Cecil300 Jacobs452",
+      "severity": "medium",
+      "detail": "Medication adherence 78% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "2a435b84-ff65-237a-1b43-afa8160b0a6c",
+      "name": "David908 Leal292",
+      "severity": "medium",
+      "detail": "Missed visit 5 (scheduled 2026-03-23) \u2014 no-show"
+    },
+    {
+      "patient_id": "384e818e-b695-39d9-c66d-bdce4ea9de58",
+      "name": "Debby656 Lang846",
+      "severity": "medium",
+      "detail": "Missed visit 3 (scheduled 2026-01-26) \u2014 no-show"
+    },
+    {
+      "patient_id": "d5c23197-dcc7-f8e9-4b50-b1bd581089ce",
+      "name": "Delilah659 Satterfield305",
+      "severity": "medium",
+      "detail": "Visit 5 attended late (2026-03-25)"
+    },
+    {
+      "patient_id": "d5c23197-dcc7-f8e9-4b50-b1bd581089ce",
+      "name": "Delilah659 Satterfield305",
+      "severity": "medium",
+      "detail": "Visit 6 attended late (2026-04-25)"
+    },
+    {
+      "patient_id": "d5c23197-dcc7-f8e9-4b50-b1bd581089ce",
+      "name": "Delilah659 Satterfield305",
+      "severity": "medium",
+      "detail": "Medication adherence 77% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "547532f4-57b1-02a2-901a-0ddf1062740b",
+      "name": "Denisha680 Lind531",
+      "severity": "medium",
+      "detail": "Visit 2 attended late (2026-01-02)"
+    },
+    {
+      "patient_id": "547532f4-57b1-02a2-901a-0ddf1062740b",
+      "name": "Denisha680 Lind531",
+      "severity": "medium",
+      "detail": "Missed visit 6 (scheduled 2026-04-20) \u2014 no-show"
+    },
+    {
+      "patient_id": "547532f4-57b1-02a2-901a-0ddf1062740b",
+      "name": "Denisha680 Lind531",
+      "severity": "medium",
+      "detail": "Medication adherence 77% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "794686f5-c432-9a96-fa36-e6e2f68fb2ec",
+      "name": "Dusti191 Bernier607",
+      "severity": "medium",
+      "detail": "Missed visit 1 (scheduled 2025-12-01) \u2014 no-show"
+    },
+    {
+      "patient_id": "794686f5-c432-9a96-fa36-e6e2f68fb2ec",
+      "name": "Dusti191 Bernier607",
+      "severity": "medium",
+      "detail": "Medication adherence 76% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "7914dd2d-9732-95f1-1ff9-0559668dd585",
+      "name": "Eladia866 Schiller186",
+      "severity": "medium",
+      "detail": "Visit 5 attended late (2026-03-28)"
+    },
+    {
+      "patient_id": "bc3c7e09-3d18-e7f1-d5ac-ea54e347e705",
+      "name": "Elmer371 Langosh790",
+      "severity": "medium",
+      "detail": "Visit 6 attended late (2026-04-26)"
+    },
+    {
+      "patient_id": "9801576f-8900-6d73-0995-c9a4a60f8dc1",
+      "name": "Elvina437 Gusikowski974",
+      "severity": "medium",
+      "detail": "Missed visit 1 (scheduled 2025-12-01) \u2014 no-show"
+    },
+    {
+      "patient_id": "9801576f-8900-6d73-0995-c9a4a60f8dc1",
+      "name": "Elvina437 Gusikowski974",
+      "severity": "medium",
+      "detail": "Visit 5 attended late (2026-03-26)"
+    },
+    {
+      "patient_id": "25482b3d-0e77-d636-82e7-be4733280ac9",
+      "name": "Francisca486 Cornejo190",
+      "severity": "medium",
+      "detail": "Visit 1 attended late (2025-12-07)"
+    },
+    {
+      "patient_id": "25482b3d-0e77-d636-82e7-be4733280ac9",
+      "name": "Francisca486 Cornejo190",
+      "severity": "medium",
+      "detail": "Visit 3 attended late (2026-02-01)"
+    },
+    {
+      "patient_id": "25482b3d-0e77-d636-82e7-be4733280ac9",
+      "name": "Francisca486 Cornejo190",
+      "severity": "medium",
+      "detail": "Visit 5 attended late (2026-03-30)"
+    },
+    {
+      "patient_id": "243da6fa-30de-0978-2daa-dadcba92687b",
+      "name": "Garry927 Crist667",
+      "severity": "medium",
+      "detail": "Visit 4 attended late (2026-02-28)"
+    },
+    {
+      "patient_id": "243da6fa-30de-0978-2daa-dadcba92687b",
+      "name": "Garry927 Crist667",
+      "severity": "medium",
+      "detail": "Medication adherence 79% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "71cef2da-1265-9a41-7e5f-c841efe22eb7",
+      "name": "Greg949 Boyle917",
+      "severity": "medium",
+      "detail": "Missed visit 2 (scheduled 2025-12-29) \u2014 no-show"
+    },
+    {
+      "patient_id": "71cef2da-1265-9a41-7e5f-c841efe22eb7",
+      "name": "Greg949 Boyle917",
+      "severity": "medium",
+      "detail": "Visit 5 attended late (2026-03-26)"
+    },
+    {
+      "patient_id": "03822e38-8c6c-0043-93fe-9ed5822979a4",
+      "name": "Gregoria352 Lebsack687",
+      "severity": "medium",
+      "detail": "Visit 1 attended late (2025-12-04)"
+    },
+    {
+      "patient_id": "03822e38-8c6c-0043-93fe-9ed5822979a4",
+      "name": "Gregoria352 Lebsack687",
+      "severity": "medium",
+      "detail": "Missed visit 4 (scheduled 2026-02-23) \u2014 no-show"
+    },
+    {
+      "patient_id": "03822e38-8c6c-0043-93fe-9ed5822979a4",
+      "name": "Gregoria352 Lebsack687",
+      "severity": "medium",
+      "detail": "Medication adherence 77% below 80% protocol threshold"
+    },
+    {
+      "patient_id": "03822e38-8c6c-0043-93fe-9ed5822979a4",
+      "name": "Gregoria352 Lebsack687",
+      "severity": "medium",
+      "detail": "4 consecutive missed doses \u2014 adherence gap"
+    },
+    {
+      "patient_id": "352295b9-87f7-d91d-2839-e68d92591c24",
+      "name": "Alda400 Turner526",
+      "severity": "low",
+      "detail": "Visit 4 attended late (2026-02-26)"
+    },
+    {
+      "patient_id": "8b452581-c862-b3b0-3513-4a754f02a13c",
+      "name": "Arden380 Kuvalis369",
+      "severity": "low",
+      "detail": "Visit 4 attended late (2026-02-28)"
+    },
+    {
+      "patient_id": "47b06907-bdd3-e64a-e24e-9003437c4999",
+      "name": "Aurelio227 Jacobi462",
+      "severity": "low",
+      "detail": "Visit 5 attended late (2026-03-29)"
+    },
+    {
+      "patient_id": "47b06907-bdd3-e64a-e24e-9003437c4999",
+      "name": "Aurelio227 Jacobi462",
+      "severity": "low",
+      "detail": "Visit 6 attended late (2026-04-24)"
+    },
+    {
+      "patient_id": "f8c9295e-e1f5-2df5-f6ab-f93a3d595c7e",
+      "name": "Curtis94 Yost751",
+      "severity": "low",
+      "detail": "Visit 4 attended late (2026-02-25)"
+    },
+    {
+      "patient_id": "a297bb62-faac-2465-ce7b-62439e7e49ae",
+      "name": "Delta800 Bechtelar572",
+      "severity": "low",
+      "detail": "Visit 4 attended late (2026-03-02)"
+    }
+  ]
+}
